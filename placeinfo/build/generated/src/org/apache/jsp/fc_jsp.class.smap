@@ -1,0 +1,12 @@
+SMAP
+fc_jsp.java
+JSP
+*S JSP
+*F
++ 0 fc.jsp
+fc.jsp
+*L
+1,31:49
+31,2:80
+32,71:82
+*E
